@@ -181,16 +181,7 @@ python generate_hook_chart.py
 
 ### 价格趋势图示例
 运行程序后会生成 `price_trend.png`：
-
-```
-Price Trend for iPhone 15 Pro 256GB
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-淘宝: 🔴 ━━━━━━╱╲━━━━━━━
-京东: 🔵 ━━━╱━━━━╲━━━━━━
-拼多多: 🟢 ━━━━━━━━━╲━━━━╱
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-    10/01      10/07      10/14
-```
+![PriceDive Example](examples/price_trend.png)
 
 ### Twitter 推送示例
 ```
@@ -454,15 +445,7 @@ Creates a V-shaped price curve chart exposing seller tricks!
 ### Price Trend Chart Example
 After running, `price_trend.png` is generated:
 
-```
-Price Trend for iPhone 15 Pro 256GB
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Platform A: 🔴 ━━━━━━╱╲━━━━━━━
-Platform B: 🔵 ━━━╱━━━━╲━━━━━━
-Platform C: 🟢 ━━━━━━━━━╲━━━━╱
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-    10/01      10/07      10/14
-```
+![PriceDive Example](examples/price_trend.png)
 
 ### Twitter Post Example
 ```
