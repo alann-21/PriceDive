@@ -28,7 +28,7 @@
 - [详细文档](#-详细文档)
 - [技术栈](#-技术栈)
 
-### 🇺🇸 [English Documentation](#-english-documentation)
+### 🇺🇸 [English Document](#-english-documentation)
 - [Introduction](#-introduction)
 - [Why PriceDive](#-why-pricedive)
 - [Key Features](#-key-features)
