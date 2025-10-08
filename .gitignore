@@ -1,0 +1,62 @@
+# PriceDive - Git Ignore File
+
+# Configuration with API keys
+config/config.json
+
+# Database files
+data/*.db
+data/*.db-journal
+data/*.sqlite
+data/*.sqlite3
+
+# Generated charts (examples folder already tracked for templates)
+examples/price_trend.png
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Log files
+*.log
+output.txt
+
+# Backup files
+*_backup*
+*.bak
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
